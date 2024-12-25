@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>two-side-arrows-white-color-icon-vector--removebg-preview.png</file>
+  </qresource>
+</RCC>
